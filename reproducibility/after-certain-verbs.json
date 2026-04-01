@@ -2,7 +2,7 @@
   "lessonActivities": [
     {
       "id": "lesson-1",
-      "title": "10.2 After Certain Verbs: Gerund List",
+      "title": "After Certain Verbs: Gerund List",
       "content": "<p>Use gerund (verb+ing) after verbs such as admit, avoid, consider, delay, deny, enjoy, finish, give up, imagine, involve, keep, mention, miss, postpone, suggest.</p>",
       "examples": ["He admitted taking the keys.", "She mentions going to the gym."],
       "difficulty": 2,
@@ -12,7 +12,7 @@
     },
     {
       "id": "lesson-2",
-      "title": "10.2 After Certain Verbs: Infinitive List",
+      "title": "After Certain Verbs: Infinitive List",
       "content": "<p>Use infinitive (to+verb) after verbs such as afford, agree, arrange, ask, choose, decide, expect, fail, hope, intend, learn, manage, need, offer, plan, promise, refuse, seem, want.</p>",
       "examples": ["They agreed to meet.", "He refused to leave."],
       "difficulty": 2,
@@ -22,7 +22,7 @@
     },
     {
       "id": "lesson-3",
-      "title": "10.2 Mixed Verbs (both forms)",
+      "title": "Mixed Verbs (both forms)",
       "content": "<p>Some verbs can take both gerund and infinitive with similar or changed meaning: like, love, hate, prefer, start, begin, continue. Learn how usage shifts context.</p>",
       "examples": ["I like swimming. / I like to swim.", "She started reading. / She started to read."],
       "difficulty": 3,
@@ -32,7 +32,7 @@
     },
     {
       "id": "lesson-4",
-      "title": "10.2 Phrases and Prepositions",
+      "title": "Phrases and Prepositions",
       "content": "<p>Know that some structures use gerund after prepositions: after, before, instead of, without, in addition to, on, at. Also expressions: it's no use, it's worth, can't help, there's no point in.</p>",
       "examples": ["After doing homework, he played.", "It's no use complaining."],
       "difficulty": 3,
@@ -42,7 +42,7 @@
     },
     {
       "id": "lesson-5",
-      "title": "10.2 Practice in Context",
+      "title": "Practice in Context",
       "content": "<p>Combine both patterns in story-based sentences with gerund and infinitive choices. Focus on meaning accuracy and natural tone.</p>",
       "examples": ["I plan to start running...", "He admitted cheating on the test."],
       "difficulty": 3,
