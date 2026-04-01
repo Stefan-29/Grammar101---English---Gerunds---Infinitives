@@ -103,17 +103,87 @@
     {"id":"quiz-10","question":"Select correct phrase:","sentence":"I can’t stand ___ in traffic.","options":["to drive","driving","drive","driven"],"correctAnswer":"driving","audio":"quiz10.mp3","hint":"Can’t stand + gerund.","difficulty":"hard","explanation":"Can’t stand uses gerund."}
   ],
   "spellingActivities": [
-    {"id":"spelling-1","word":"enjoy","hint":"Use with gerund","clue":"I enjoy _a__ng _p early.","sentence":"I enjoy waking up early.","difficulty":"easy"},
-    {"id":"spelling-2","word":"plan","hint":"Use with infinitive","clue":"I plan ___ tonight.","sentence":"I plan to study tonight.","difficulty":"easy"},
-    {"id":"spelling-3","word":"avoid","hint":"Use with gerund","clue":"She avoids ___ mistakes.","sentence":"She avoids making mistakes.","difficulty":"easy"},
-    {"id":"spelling-4","word":"need","hint":"Use with infinitive","clue":"We need ___ the rules.","sentence":"We need to learn the rules.","difficulty":"easy"},
-    {"id":"spelling-5","word":"stop","hint":"Gerund vs infinitive difference","clue":"He stopped ___ water.","sentence":"He stopped drinking water (or to drink water).","difficulty":"medium"},
-    {"id":"spelling-6","word":"remember","hint":"Gerund vs infinitive difference","clue":"I remembered ___ the cake.","sentence":"I remembered to buy the cake.","difficulty":"medium"},
-    {"id":"spelling-7","word":"no use","hint":"Expression + gerund","clue":"It’s no use ___ here.","sentence":"It’s no use arguing here.","difficulty":"medium"},
-    {"id":"spelling-8","word":"no point in","hint":"Expression + gerund","clue":"There’s no point in ___ now.","sentence":"There’s no point in complaining now.","difficulty":"medium"},
-    {"id":"spelling-9","word":"afraid of","hint":"Preposition phrase + gerund","clue":"He’s afraid of ___ alone.","sentence":"He’s afraid of walking alone.","difficulty":"hard"},
-    {"id":"spelling-10","word":"afraid to","hint":"To-infinitive with afraid","clue":"She’s afraid to ___ on stage.","sentence":"She’s afraid to sing on stage.","difficulty":"hard"}
-  ],
+    {
+        "id": "spelling-1",
+        "word": "enjoy",
+        "hint": "Verb that takes gerund",
+        "clue": "e____",
+        "sentence": "I _____ waking up early.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-2",
+        "word": "plan",
+        "hint": "Verb that takes infinitive",
+        "clue": "p___",
+        "sentence": "I _____ to study tonight.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-3",
+        "word": "avoid",
+        "hint": "Verb that takes gerund",
+        "clue": "a____",
+        "sentence": "She _____ making mistakes.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-4",
+        "word": "need",
+        "hint": "Verb that takes infinitive",
+        "clue": "n___",
+        "sentence": "We _____ to learn the rules.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-5",
+        "word": "stop",
+        "hint": "Verb that can take gerund or infinitive with meaning change",
+        "clue": "s___",
+        "sentence": "He _____ drinking coffee to stay healthy.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-6",
+        "word": "remember",
+        "hint": "Verb that can take gerund or infinitive with meaning change",
+        "clue": "r_______",
+        "sentence": "I _____ to buy the cake.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-7",
+        "word": "no use",
+        "hint": "Expression followed by gerund",
+        "clue": "n_ u__",
+        "sentence": "It’s _____ arguing with him.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-8",
+        "word": "no point in",
+        "hint": "Expression followed by gerund",
+        "clue": "n_ p___t i_",
+        "sentence": "There’s _____ complaining now.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-9",
+        "word": "afraid of",
+        "hint": "Preposition + gerund",
+        "clue": "a____ o_",
+        "sentence": "He’s _____ walking alone at night.",
+        "difficulty": "hard"
+    },
+    {
+        "id": "spelling-10",
+        "word": "afraid to",
+        "hint": "Afraid + to-infinitive",
+        "clue": "a____ t_",
+        "sentence": "She’s _____ sing on stage.",
+        "difficulty": "hard"
+    }
+],
   "rewards": {
     "stars": [
       {"id":"star-1","name":"Gerund Starter","description":"Master 3 gerund lessons and activities.","icon":"⭐","requirement":"Complete 15 tasks","unlocked":false},
