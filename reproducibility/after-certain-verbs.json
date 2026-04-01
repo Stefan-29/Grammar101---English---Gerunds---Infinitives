@@ -88,17 +88,87 @@
     {"id":"quiz-10","question":"Pick correct form","sentence":"They refused ___ in the rain.","options":["walk","walking","to walk","walked"],"correctAnswer":"to walk","audio":"after_quiz10.mp3","hint":"Refuse + infinitive.","difficulty":"hard","explanation":"Refuse requires infinitive."}
   ],
   "spellingActivities": [
-    {"id":"spelling-1","word":"avoid","hint":"gerund verb","clue":"He avoids ___ sugar.","sentence":"He avoids eating sugar.","difficulty":"easy"},
-    {"id":"spelling-2","word":"decide","hint":"infinitive verb","clue":"She decided ___ earlier.","sentence":"She decided to leave earlier.","difficulty":"easy"},
-    {"id":"spelling-3","word":"suggest","hint":"gerund verb","clue":"He suggested ___ later.","sentence":"He suggested meeting later.","difficulty":"easy"},
-    {"id":"spelling-4","word":"agree","hint":"infinitive verb","clue":"They agreed ___ together.","sentence":"They agreed to work together.","difficulty":"easy"},
-    {"id":"spelling-5","word":"imagine","hint":"gerund verb","clue":"Imagine ___ on the moon.","sentence":"Imagine living on the moon.","difficulty":"medium"},
-    {"id":"spelling-6","word":"plan","hint":"infinitive verb","clue":"I plan ___ tomorrow.","sentence":"I plan to study tomorrow.","difficulty":"medium"},
-    {"id":"spelling-7","word":"postpone","hint":"gerund verb","clue":"They postponed ___ the project.","sentence":"They postponed starting the project.","difficulty":"medium"},
-    {"id":"spelling-8","word":"need","hint":"infinitive verb","clue":"You need ___ this right now.","sentence":"You need to finish this right now.","difficulty":"medium"},
-    {"id":"spelling-9","word":"no use","hint":"phrase + gerund","clue":"It’s no use ___ him.","sentence":"It’s no use calling him.","difficulty":"hard"},
-    {"id":"spelling-10","word":"instead of","hint":"prepositional phrase + gerund","clue":"Instead of ___, I chose not to.","sentence":"Instead of complaining, I decided to do it.","difficulty":"hard"}
-  ],
+    {
+        "id": "spelling-1",
+        "word": "avoid",
+        "hint": "Gerund verb after certain verbs",
+        "clue": "a___d",
+        "sentence": "He _____ eating sugar.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-2",
+        "word": "decide",
+        "hint": "Infinitive verb after certain verbs",
+        "clue": "d___e",
+        "sentence": "She _____ to leave earlier.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-3",
+        "word": "suggest",
+        "hint": "Gerund verb after certain verbs",
+        "clue": "s___t",
+        "sentence": "He _____ meeting later.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-4",
+        "word": "agree",
+        "hint": "Infinitive verb after certain verbs",
+        "clue": "a___e",
+        "sentence": "They _____ to work together.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "spelling-5",
+        "word": "imagine",
+        "hint": "Gerund verb after certain verbs",
+        "clue": "i___e",
+        "sentence": "_____ living on the moon.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-6",
+        "word": "plan",
+        "hint": "Infinitive verb after certain verbs",
+        "clue": "p___",
+        "sentence": "I _____ to study tomorrow.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-7",
+        "word": "postpone",
+        "hint": "Gerund verb after certain verbs",
+        "clue": "p___e",
+        "sentence": "They _____ starting the project.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-8",
+        "word": "need",
+        "hint": "Infinitive verb after certain verbs",
+        "clue": "n___",
+        "sentence": "You _____ to finish this right now.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "spelling-9",
+        "word": "no use",
+        "hint": "Expression with gerund",
+        "clue": "n_ u__",
+        "sentence": "It’s _____ calling him.",
+        "difficulty": "hard"
+    },
+    {
+        "id": "spelling-10",
+        "word": "instead of",
+        "hint": "Preposition + gerund",
+        "clue": "i___d o_",
+        "sentence": "_____ complaining, I decided to do it.",
+        "difficulty": "hard"
+    }
+],
   "rewards": {
     "stars": [
       {"id":"star-1","name":"After-Verbs Starter","description":"Complete first two lessons and four activities.","icon":"⭐","requirement":"Complete 4 tasks","unlocked":false},
